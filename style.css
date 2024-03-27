@@ -1,0 +1,113 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif; /* Step 4: Set font family for the entire page */
+    font-size: 21px; /* Step 5: Set body font size */
+    margin: 30px; /* Remove default margin */
+}
+
+.firstBox {
+    /*background-color: #D7D7D7;*/
+    padding: 100px ;
+    background-color: #252525;
+    color: #fff;
+    
+
+   
+     /* Add spacing on top and bottom */
+   
+}
+
+
+.about-me {
+    background-color: #FFEAEA;
+    padding: 100px 0; /* Add spacing on top and bottom */
+}
+
+.articles {
+    background-color: #FFEAEA
+    padding 100px;
+    background-color: #252525;
+    color: #fff;
+    padding: 100px;
+    
+}
+
+
+h1 {
+    font-size: 80px; /* Step 6: Set h1 font size */
+   font-weight: bold;
+   margin-top:-50px;
+   color: #99D930;
+
+}
+.np{
+    font-size: 50px;
+    border-top: 2px solid #c4c4c4;
+
+  border-width: 2px;
+    
+    
+}
+.np1{
+    font-size: 50px;
+}
+
+
+
+h2 {
+    
+
+    border-bottom: 2px solid #c4c4c4;
+  border-width: 2px;
+  
+    font-size: 60px; /* Step 7: Set h2 font size */
+    font-weight: bold;
+    margin-top: 50px;
+    color: #99D930;
+}
+
+h3 {
+    font-size: 36px; /* Step 8: Set h3 font size */
+    margin-bottom: -15px;
+}
+
+.small {
+    font-size: 16px; /* Step 9: Set small font size */
+    color: #99D930;
+}
+.wrapper {
+    
+        
+    
+    width: 570px;
+    margin: 0 auto;
+}
+.image1{
+    height: 350px;
+    width: 330px;
+
+    border-radius: 50%;
+    
+}
+
+a {
+    color: #99D930; /* Step 10: Set link color */
+    text-decoration: none; /* Step 11: Remove underline from links */
+    transition: color 0.3s ease; /* Step 12: Add smooth transition */
+}
+
+a:hover {
+    color: #131313; /* Step 13: Set link hover color */
+}
+.button{
+    color:#252525;
+    background-color: #99D930;}
+    a:hover{
+    color: #fff;
+    background-color: #252525;
+}
+*
+{
+   
+    font-weight: 900;
+}
